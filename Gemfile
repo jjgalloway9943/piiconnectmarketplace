@@ -18,6 +18,10 @@ gem 'ruby-ole'
 
 gem 'paperclip'
 
+gem 'paperclip-dropbox'
+
+gem 'figaro'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.3'
 gem 'bootstrap-sass'
