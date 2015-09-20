@@ -14,11 +14,11 @@ group :production do
   gem 'rails_12factor'
 end
 
-gem 'ruby-ole'
+gem 'ruby-ole', '1.2.11.8'
 
-gem 'paperclip'
+gem 'paperclip', '4.3.1'
 
-gem 'paperclip-dropbox'
+gem 'paperclip-dropbox', '1.3.2'
 
 gem 'figaro'
 
