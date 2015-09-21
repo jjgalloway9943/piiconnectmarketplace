@@ -16,11 +16,17 @@ end
 
 gem 'ruby-ole', '1.2.11.8'
 
+# Use Paperclip to attach images
 gem 'paperclip', '4.3.1'
 
+# Use Paperclip-dropbox to store images
 gem 'paperclip-dropbox', '1.3.2'
 
+# Use Figaro for protecting sensitive data into ENV's
 gem 'figaro'
+
+# Use Devise for user management & authentication
+gem 'devise'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.3'
